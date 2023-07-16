@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.book-container {
+    width: 500px;
+    height: 900px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.book-title {
+    font-size: 36px;
+    margin-bottom: 100px;
+}
+
+.author-name {
+    font-size: 24px;
+}
